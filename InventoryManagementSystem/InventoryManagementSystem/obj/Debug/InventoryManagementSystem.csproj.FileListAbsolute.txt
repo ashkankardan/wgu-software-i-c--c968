@@ -1,0 +1,10 @@
+C:\WGU\Software I – C# - C968\task\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.exe
+C:\WGU\Software I – C# - C968\task\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\InventoryManagementSystem.pdb
+C:\WGU\Software I – C# - C968\task\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.AssemblyReference.cache
+C:\WGU\Software I – C# - C968\task\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.Properties.Resources.resources
+C:\WGU\Software I – C# - C968\task\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.GenerateResource.cache
+C:\WGU\Software I – C# - C968\task\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\WGU\Software I – C# - C968\task\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.exe
+C:\WGU\Software I – C# - C968\task\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.pdb
+C:\WGU\Software I – C# - C968\task\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.AddProductForm.resources
+C:\WGU\Software I – C# - C968\task\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\InventoryManagementSystem.MainForm.resources

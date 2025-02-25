@@ -1,0 +1,344 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\wgu\\software i \u2013 c# - c968\\task\\inventorymanagementsystem\\inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\wgu\\software i \u2013 c# - c968\\task\\inventorymanagementsystem\\inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\wgu\\software i \u2013 c# - c968\\task\\inventorymanagementsystem\\inventorymanagementsystem\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\wgu\\software i \u2013 c# - c968\\task\\inventorymanagementsystem\\inventorymanagementsystem\\modifyproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\modifyproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\wgu\\software i \u2013 c# - c968\\task\\inventorymanagementsystem\\inventorymanagementsystem\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\wgu\\software i \u2013 c# - c968\\task\\inventorymanagementsystem\\inventorymanagementsystem\\addproductform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\addproductform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\wgu\\software i \u2013 c# - c968\\task\\inventorymanagementsystem\\inventorymanagementsystem\\modifyproductform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\modifyproductform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\wgu\\software i \u2013 c# - c968\\task\\inventorymanagementsystem\\inventorymanagementsystem\\modifypartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\modifypartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\wgu\\software i \u2013 c# - c968\\task\\inventorymanagementsystem\\inventorymanagementsystem\\modifypartform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\modifypartform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\wgu\\software i \u2013 c# - c968\\task\\inventorymanagementsystem\\inventorymanagementsystem\\addpartform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\addpartform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\wgu\\software i \u2013 c# - c968\\task\\inventorymanagementsystem\\inventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\wgu\\software i \u2013 c# - c968\\task\\inventorymanagementsystem\\inventorymanagementsystem\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\addproductform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\wgu\\software i \u2013 c# - c968\\task\\inventorymanagementsystem\\inventorymanagementsystem\\modifypartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\modifypartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\wgu\\software i \u2013 c# - c968\\task\\inventorymanagementsystem\\inventorymanagementsystem\\addpartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\addpartform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\wgu\\software i \u2013 c# - c968\\task\\inventorymanagementsystem\\inventorymanagementsystem\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\wgu\\software i \u2013 c# - c968\\task\\inventorymanagementsystem\\inventorymanagementsystem\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\wgu\\software i \u2013 c# - c968\\task\\inventorymanagementsystem\\inventorymanagementsystem\\outsourcedpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\outsourcedpart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\wgu\\software i \u2013 c# - c968\\task\\inventorymanagementsystem\\inventorymanagementsystem\\inhousepart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\inhousepart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\wgu\\software i \u2013 c# - c968\\task\\inventorymanagementsystem\\inventorymanagementsystem\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2157FC9-8770-46FF-A2CD-01E63E83E23D}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\part.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddProductForm.cs [Design]",
+              "DocumentMoniker": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\AddProductForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\AddProductForm.cs",
+              "ToolTip": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\AddProductForm.cs [Design]",
+              "RelativeToolTip": "InventoryManagementSystem\\AddProductForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T01:09:55.834Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ModifyPartForm.cs [Design]",
+              "DocumentMoniker": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\ModifyPartForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\ModifyPartForm.cs",
+              "ToolTip": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\ModifyPartForm.cs [Design]",
+              "RelativeToolTip": "InventoryManagementSystem\\ModifyPartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T01:06:39.887Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\MainForm.cs",
+              "ToolTip": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\MainForm.cs [Design]",
+              "RelativeToolTip": "InventoryManagementSystem\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T23:15:22.19Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ModifyProductForm.Designer.cs",
+              "DocumentMoniker": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\ModifyProductForm.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\ModifyProductForm.Designer.cs",
+              "ToolTip": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\ModifyProductForm.Designer.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\ModifyProductForm.Designer.cs",
+              "ViewState": "AgIAABoBAAAAAAAAAAAIwDABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T23:06:44.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModifyProductForm.cs",
+              "DocumentMoniker": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\ModifyProductForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\ModifyProductForm.cs",
+              "ToolTip": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\ModifyProductForm.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\ModifyProductForm.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T23:06:14.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddProductForm.Designer.cs",
+              "DocumentMoniker": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\AddProductForm.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\AddProductForm.Designer.cs",
+              "ToolTip": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\AddProductForm.Designer.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\AddProductForm.Designer.cs",
+              "ViewState": "AgIAABoBAAAAAAAAAAAIwDABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T23:05:50.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddProductForm.cs",
+              "DocumentMoniker": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\AddProductForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\AddProductForm.cs",
+              "ToolTip": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\AddProductForm.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\AddProductForm.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAA7wEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T23:05:28.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ModifyPartForm.Designer.cs",
+              "DocumentMoniker": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\ModifyPartForm.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\ModifyPartForm.Designer.cs",
+              "ToolTip": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\ModifyPartForm.Designer.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\ModifyPartForm.Designer.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAqwOYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T23:00:10.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ModifyPartForm.cs",
+              "DocumentMoniker": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\ModifyPartForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\ModifyPartForm.cs",
+              "ToolTip": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\ModifyPartForm.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\ModifyPartForm.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:59:37.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AddPartForm.Designer.cs",
+              "DocumentMoniker": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\AddPartForm.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\AddPartForm.Designer.cs",
+              "ToolTip": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\AddPartForm.Designer.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\AddPartForm.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:58:46.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddPartForm.cs",
+              "DocumentMoniker": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\AddPartForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\AddPartForm.cs",
+              "ToolTip": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\AddPartForm.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\AddPartForm.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:57:58.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\MainForm.Designer.cs",
+              "ToolTip": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\MainForm.Designer.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\MainForm.Designer.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAYwN0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:57:14.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\MainForm.cs",
+              "ToolTip": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\MainForm.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\MainForm.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:56:38.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\Inventory.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Inventory.cs",
+              "ToolTip": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\Inventory.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Inventory.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAIwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:45:52.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\Product.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Product.cs",
+              "ToolTip": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\Product.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:45:23.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OutsourcedPart.cs",
+              "DocumentMoniker": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\OutsourcedPart.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\OutsourcedPart.cs",
+              "ToolTip": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\OutsourcedPart.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\OutsourcedPart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:44:50.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InHousePart.cs",
+              "DocumentMoniker": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\InHousePart.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\InHousePart.cs",
+              "ToolTip": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\InHousePart.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\InHousePart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:44:16.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Part.cs",
+              "DocumentMoniker": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\Part.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Part.cs",
+              "ToolTip": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\Part.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Part.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:40:06.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\WGU\\Software I \u2013 C# - C968\\task\\InventoryManagementSystem\\InventoryManagementSystem\\Program.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:04:13.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
